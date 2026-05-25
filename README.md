@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Jerin 👋
 
-<!--
-**Jerin-johnson/jerin-johnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable web applications, real-time systems, and cloud deployment.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Building full-stack applications with React / Next.js / Node.js
+- Interested in system design, scalable backend architecture, and DevOps
+- Working with AWS, Docker, Nginx, WebSockets, and real-time media systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Frontend:
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express
+- REST APIs
+- WebSockets
+- Socket.IO
+
+Database:
+- PostgreSQL
+- MongoDB
+- Redis
+
+DevOps / Cloud:
+- AWS EC2
+- Docker
+- Nginx
+- CloudFront
+- S3
+- GitHub Actions
+
+## Featured Projects
+### Auction Platform
+Real-time auction system with bidding, seller dashboard, authentication, payments, and live communication.
+
+Tech:
+Next.js • Node.js • PostgreSQL • WebSocket
+
+### Live Streaming Platform
+SFU-based real-time audio/video streaming architecture.
+
+Tech:
+Mediasoup • WebRTC • Docker • Nginx
+
+## GitHub Stats
+(add badges)
+
+## Connect
+LinkedIn | Portfolio | Email
