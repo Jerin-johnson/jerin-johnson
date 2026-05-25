@@ -26,6 +26,3 @@ DevOps / Cloud:
 - CloudFront
 - S3
 - GitHub Actions
-
-## Connect
-LinkedIn | Portfolio | Email
